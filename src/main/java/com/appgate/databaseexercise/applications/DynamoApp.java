@@ -13,7 +13,7 @@ public class DynamoApp {
 	    	AsciiGenerator.printAscci("DYNAMODB EXERCISE");
 	    	initConnection();
 	    	createTable("users");
-	    	insertUser(new String[]{"users","Pedro","Language=español","Born=1989"});
+	    	insertUser(new String[]{"users","Pedro","Language=espaï¿½ol","Born=1989"});
 	    	printUser(new String[]{"users","Pedro"});
 	    }
 

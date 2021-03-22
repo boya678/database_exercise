@@ -15,7 +15,7 @@ repositories {
 }
 
 dependencies {
-	implementation "org.postgresql:postgresql:42.2.19.jre7",
+	compile "org.postgresql:postgresql:42.2.19.jre7",
 				   "com.opencsv:opencsv:5.3",
 				   "org.apache.kafka:kafka-clients:1.0.0",
 				   "com.amazonaws:aws-java-sdk-dynamodb:1.11.979",
