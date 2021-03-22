@@ -1,4 +1,4 @@
-# Reqres Automation
+# Database Exercise
 
 This project is an implentation for a postgres exercise
 
