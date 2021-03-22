@@ -19,6 +19,7 @@ This project is an implentation for a postgres exercise, Kafka and DynamoDB
 
 - the data is under src/main/resources/data.csv file
 - kafka server is on cloud under free account on https://www.cloudkarafka.com/, so you can run anywhere
+- for dynamo you need to configure a aws cli credentials
 
 ## Run
 
