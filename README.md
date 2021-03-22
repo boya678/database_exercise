@@ -8,10 +8,10 @@ This project is an implentation for a postgres exercise
 - using models
 
 ## Tech Stack
-- [Java] - HTML enhanced for web apps!
-- [Gradle] - awesome web-based text editor
-- [JDBC] - Markdown parser done right. Fast and easy to extend.
-- [OpenCSV] - Markdown parser done right. Fast and easy to extend.
+- [Java] 
+- [Gradle] 
+- [JDBC] 
+- [OpenCSV] 
 
 ## Data
 
